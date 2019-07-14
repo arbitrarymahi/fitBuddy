@@ -9,7 +9,7 @@ class HomePage extends StatelessWidget {
         floatingActionButton:FloatingActionButton(
           onPressed: () {
              FlutterYoutube.playYoutubeVideoByUrl(
-                  apiKey: "AIzaSyCyvdmImwg5rFGt0vJOWRyZowIuehqi2Pc",
+                  apiKey: "API KEY",
                   videoUrl: "https://www.youtube.com/watch?v=oOAfz0H4f00",
                   autoPlay: true, //default falase
                   
