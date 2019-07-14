@@ -26,7 +26,7 @@ class SecondScreen extends StatelessWidget {
                   onPressed: () {
                                 FlutterYoutube.playYoutubeVideoByUrl(
                                   apiKey:
-                                      "AIzaSyCyvdmImwg5rFGt0vJOWRyZowIuehqi2Pc",
+                                      "API KEY",
                                   videoUrl: exercise[index],
                                   autoPlay: true, //default false
                                 );
